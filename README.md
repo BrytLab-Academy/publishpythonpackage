@@ -6,6 +6,4 @@ build, its dependency, project description, and author's details in these files.
 In this tutorial, we will use a setup.py to publish a simple application.
 
 1. Create a new file setup.py in the project root folder.
-2. 
-
-
+2.
